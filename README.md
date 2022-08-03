@@ -33,7 +33,7 @@
 
 ## 📖 Sobre
 
-A proposta do projeto é a criação de um app de apostas utilizando o famoso "cara ou coroa".gerando uma imagem de forma aleatoria e mostrando tambem o resultado em um texto.
+A proposta do projeto é a criação de um app de apostas utilizando o famoso "cara ou coroa". gerando uma imagem de forma aleatoria e mostrando tambem o resultado em um texto.
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
 ---
