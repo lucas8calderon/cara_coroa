@@ -19,10 +19,10 @@
 
 <div align="center">
 
- <img src="https://user-images.githubusercontent.com/87238842/182643114-a1fe393b-d32b-4ae7-8c92-43ad7f525c54.png" width="200">
- <img src="https://user-images.githubusercontent.com/87238842/182643123-a7bbc349-e161-47a2-8fcb-459da5ce0c11.png" width="200">
- <img src="https://user-images.githubusercontent.com/87238842/182643126-44e91aec-ab80-449b-9b16-757931d4eae0.png" width="200">
- <img src="https://user-images.githubusercontent.com/87238842/182643130-b7473448-20ca-4d45-a5f4-ea9f2a6e98b0.png" width="200">
+ <img src="https://user-images.githubusercontent.com/87238842/182656288-d9f6c443-9b5b-4c47-b14d-18a5756cca9e.png" width="200">
+ <img src="https://user-images.githubusercontent.com/87238842/182656291-3c1c1af6-2164-4853-a51a-b44fda209f05.png" width="200">
+ <img src="https://user-images.githubusercontent.com/87238842/182656295-05a12103-fc6c-41a2-be3a-30cbb98bd296.png" width="200">
+ <img src="https://user-images.githubusercontent.com/87238842/182656297-8c853b97-1a19-4c94-a8ab-b38d0797b806.png" width="200">
 
 
 
@@ -33,7 +33,7 @@
 
 ## 📖 Sobre
 
-A proposta do projeto é a criação de um app de calculos de gorjetas de um estabelecimento.
+A proposta do projeto é a criação de um app de apostas utilizando o famoso "cara ou coroa".gerando uma imagem de forma aleatoria e mostrando tambem o resultado em um texto.
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
 ---
@@ -48,6 +48,9 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Lógica de Programação
 - POO
 - Layouts
+- Bundle
+- Dados entre Activities
+- Random
 
 ---
 
